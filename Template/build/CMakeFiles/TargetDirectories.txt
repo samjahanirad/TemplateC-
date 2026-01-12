@@ -1,0 +1,3 @@
+/Users/sam/Code/Template/build/CMakeFiles/main.dir
+/Users/sam/Code/Template/build/CMakeFiles/edit_cache.dir
+/Users/sam/Code/Template/build/CMakeFiles/rebuild_cache.dir
